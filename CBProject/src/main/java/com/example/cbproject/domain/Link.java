@@ -23,6 +23,4 @@ public class Link {
     private String Cipher;
 
     private String Response_Code;
-
-
 }
