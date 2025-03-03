@@ -15,6 +15,6 @@ public class LinkService {
 
     @Transactional
     public Link create(Link link){
-        return LinkRepository.save(link);
+        return linkRepository.save(link);
     }
 }
